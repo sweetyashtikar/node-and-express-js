@@ -1,15 +1,18 @@
 {
-  "name": "nodeassq3",
+  "name": "expherakuq2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "age-calculator": "^1.0.0",
-    "findage": "^30.0.0"
+    "express": "^4.18.1"
+  },
+  "engines":{
+    "node":"10.16.2"
   }
 }
